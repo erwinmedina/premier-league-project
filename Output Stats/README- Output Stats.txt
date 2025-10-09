@@ -1,0 +1,2 @@
+I didn't have data for the years 2022-2025. Thus, I had to create a script that would go and collect them. 
+I chose to not run the script for ALL the games because I was confident that the stats were correct as they were.

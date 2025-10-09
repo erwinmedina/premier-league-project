@@ -1,0 +1,2 @@
+These files came straight from the Incidents.output_incidents folder. They are more or less unchanged except for the header.
+I was indecisive about whether to use 'id' or 'URL'. Thus why my headers are inconsistent.
