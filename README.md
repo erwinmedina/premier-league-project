@@ -4,7 +4,7 @@
 | ------ | ----------- | --------- | --------------- |
 | CPSC 597 | Project | Rong Jin | Fall 2025 |
 
-## Developer
+## Developer & Researcher
 | Name | Email | 
 | ---- | ----- |
 | Erwin Medina | erwin.l.medina@gmail.com |
@@ -15,11 +15,13 @@ Premier League fans have long expressed criticism toward referees, often perceiv
 This project seeks to take an evidence-based approach. We aim to conduct statistical analyses and apply machine learning techninques to identify potential patterns in referee behavior and predict future trends. Additionally, we will explore whether there is any indication of bias, specifically toward foreign players or potential racial bias, in the distribution of cards. The dataset will encompass Premier League matches spanning from the 2009-2010 season through the 2024-2025 season.
 
 ## Features
-- Machine Learning 🤪
+- Machine Learning
 
 ## Technologies Used
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=15> Python
-- Cool Machine Learning
+- Python
+- JupyterLab
+- Scikit Learn [Random Forest, Logistic Regression, Gradient Boosting, SVM, K-Nearest Neighbors]
+
 
 ## Images
 
