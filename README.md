@@ -32,7 +32,7 @@ This project seeks to take an evidence-based approach. We aim to conduct statist
 
 ### Conclusion
 -----------
-Results show that patterns did not emerge from the features aand scale of data that I provided. However, this does not rule out the existence of meaningful patterns. Perhaps deeper, richer, more granular inputs/data could provide better results. I continue to firmly believe that bias and discrimination exists in the sport, however, quantifying it may be more difficult than anticipated.
+Results show that patterns did not emerge from the features and scale of data that I provided. However, this does not rule out the existence of meaningful patterns. Perhaps deeper, richer, more granular inputs/data could provide better results. I continue to firmly believe that bias and discrimination exists in the sport, however, quantifying it may be more difficult than anticipated.
 
 ### Retrospection
 ----------
